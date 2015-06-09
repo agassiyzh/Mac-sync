@@ -1,0 +1,11 @@
+---
+layout: post
+title: 开篇
+date: '2015-06-09'
+---
+
+我有三台Mac：公司一台iMac，家里有一台Mac Mini，还有一台15寸的Macbook Pro。作为一个iOS开发者兼工具控，一套统一的开发环境对我来说还是很有必要的。
+
+这些年来，积累了一点在多台Mac之间同步开发环境配置/数据的经验。特意开了一个Blog分享给大家。
+
+Blog使用Jekyll托管在github pagas上面。文章中有错误，或者你有其他同步经验欢迎提交Pull request。
