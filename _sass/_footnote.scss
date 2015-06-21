@@ -1,0 +1,15 @@
+
+.footnotes {
+    border-top-width: 1px;
+    border-top-color: #999;
+    border-top-style: dotted;
+    padding-top: 20px;
+    ol {
+        font-size: 0.8em;
+
+        p {
+            color: #999;
+            font-style: italic;
+        }
+    };
+}
